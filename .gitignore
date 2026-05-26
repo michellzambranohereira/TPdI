@@ -1,0 +1,6 @@
+.venv/
+.venv39/
+gradiofix/
+__pycache__/
+*.pyc
+*.h5
